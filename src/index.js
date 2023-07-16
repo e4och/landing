@@ -4,4 +4,3 @@ const collapseToggle = document.querySelector("[data-collapse-toggle='navbar-def
 collapseToggle.addEventListener("click", function() {
   navbarDefault.classList.toggle("hidden");
 });
-
